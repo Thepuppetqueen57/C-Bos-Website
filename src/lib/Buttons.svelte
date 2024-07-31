@@ -3,10 +3,10 @@
         window.location.href = url
     }
 
-    const infourl = "https://thepuppet57.141412.xyz/tps/cbos/info.html"
-    const packagelisturl = "https://thepuppet57.141412.xyz/tps/cbos/packagelist"
+    const infourl = "https://thepuppet57.alwaysdata.net/tps/cbos/info.html"
+    const packagelisturl = "https://thepuppet57.alwaysdata.net/tps/cbos/packagelist"
     const repourl = "https://github.com/Thepuppetqueen57/C-Bos"
-    const backendurl = "https://thepuppet57.141412.xyz/tps/cbos/backend"
+    const backendurl = "https://thepuppet57.alwaysdata.net/tps/cbos/backend"
 </script>
 
 <main>
