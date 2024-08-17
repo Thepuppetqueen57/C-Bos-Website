@@ -7,6 +7,7 @@
     const packagelisturl = "https://thepuppet57.alwaysdata.net/tps/cbos/packagelist"
     const repourl = "https://github.com/Thepuppetqueen57/C-Bos"
     const backendurl = "https://thepuppet57.alwaysdata.net/tps/cbos/backend"
+    const devtoolsurl = "https://thepuppet57.alwaysdata.net/tps/cbos/devtools"
 </script>
 
 <main>
@@ -14,6 +15,7 @@
         <button on:click={(event) => redirect(infourl)}>Info</button>
         <button on:click={(event) => redirect(packagelisturl)}>Package List</button>
         <button on:click={(event) => redirect(repourl)}>Source Code</button>
+        <button on:click={(event) => redirect(devtoolsurl)}>Dev Tools</button>
         <button on:click={(event) => redirect(backendurl)}>Backend</button>
     </div>
 </main>
