@@ -13,6 +13,12 @@
   $purple: #370664;
   $purpletext: #420068;
   $lightgray: #b6b6b6;
+
+  :global(body), :global(html) {
+    overflow: hidden;
+    height: 100%;
+    margin: 0;
+  }
   
   main {
     height: 100vh;
